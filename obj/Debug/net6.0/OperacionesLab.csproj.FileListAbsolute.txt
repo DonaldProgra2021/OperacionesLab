@@ -3,3 +3,13 @@ C:\Users\donal\OneDrive\Documentos\Curso Fullstack\Codigos 2022\KinalOperaciones
 C:\Users\donal\OneDrive\Documentos\Curso Fullstack\Codigos 2022\KinalOperacionesLab\net\lab\OperacionesLab\obj\Debug\net6.0\OperacionesLab.AssemblyInfoInputs.cache
 C:\Users\donal\OneDrive\Documentos\Curso Fullstack\Codigos 2022\KinalOperacionesLab\net\lab\OperacionesLab\obj\Debug\net6.0\OperacionesLab.AssemblyInfo.cs
 C:\Users\donal\OneDrive\Documentos\Curso Fullstack\Codigos 2022\KinalOperacionesLab\net\lab\OperacionesLab\obj\Debug\net6.0\OperacionesLab.csproj.CoreCompileInputs.cache
+C:\Users\donal\OneDrive\Documentos\Curso Fullstack\Codigos 2022\KinalOperacionesLab\net\lab\OperacionesLab\bin\Debug\net6.0\OperacionesLab.exe
+C:\Users\donal\OneDrive\Documentos\Curso Fullstack\Codigos 2022\KinalOperacionesLab\net\lab\OperacionesLab\bin\Debug\net6.0\OperacionesLab.deps.json
+C:\Users\donal\OneDrive\Documentos\Curso Fullstack\Codigos 2022\KinalOperacionesLab\net\lab\OperacionesLab\bin\Debug\net6.0\OperacionesLab.runtimeconfig.json
+C:\Users\donal\OneDrive\Documentos\Curso Fullstack\Codigos 2022\KinalOperacionesLab\net\lab\OperacionesLab\bin\Debug\net6.0\OperacionesLab.dll
+C:\Users\donal\OneDrive\Documentos\Curso Fullstack\Codigos 2022\KinalOperacionesLab\net\lab\OperacionesLab\bin\Debug\net6.0\ref\OperacionesLab.dll
+C:\Users\donal\OneDrive\Documentos\Curso Fullstack\Codigos 2022\KinalOperacionesLab\net\lab\OperacionesLab\bin\Debug\net6.0\OperacionesLab.pdb
+C:\Users\donal\OneDrive\Documentos\Curso Fullstack\Codigos 2022\KinalOperacionesLab\net\lab\OperacionesLab\obj\Debug\net6.0\OperacionesLab.dll
+C:\Users\donal\OneDrive\Documentos\Curso Fullstack\Codigos 2022\KinalOperacionesLab\net\lab\OperacionesLab\obj\Debug\net6.0\ref\OperacionesLab.dll
+C:\Users\donal\OneDrive\Documentos\Curso Fullstack\Codigos 2022\KinalOperacionesLab\net\lab\OperacionesLab\obj\Debug\net6.0\OperacionesLab.pdb
+C:\Users\donal\OneDrive\Documentos\Curso Fullstack\Codigos 2022\KinalOperacionesLab\net\lab\OperacionesLab\obj\Debug\net6.0\OperacionesLab.genruntimeconfig.cache

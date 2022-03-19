@@ -8,14 +8,11 @@ namespace OperacionesLab.Edu.Kinal.Lab.Entities
 
         public string Email { get; set; }
 
-        public void TomarAsistencia() 
-        { 
-            
-        }
+        public abstract void TomarAsistencia();
 
-        public Persona()
+        public Persona() 
         {
-
+            
         }
 
         public Persona(string uuid, string apellidos, string nombres, string email)

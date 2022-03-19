@@ -1,4 +1,3 @@
-using OperacionesLab.Edu.Kinal.Lab.Entities;
 
 namespace OperacionesLab.Edu.Kinal.Lab.Interfaces
 {
@@ -6,6 +5,6 @@ namespace OperacionesLab.Edu.Kinal.Lab.Interfaces
     {
         public void ListarMisDatos(string identificador);
 
-        public bool EliminarAsignatura(string identificador);
+        public bool EliminarAsignatura(string asignatura);
     }
 }   

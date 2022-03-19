@@ -1,7 +1,7 @@
 using OperacionesLab.Edu.Kinal.Lab.Interfaces;
 
-namespace OperacionesLab.Edu.Kinal.Lab.Entities
-{
+namespace OperacionesLab.Edu.Kinal.Lab.Entities;
+
     public class Profesor : Persona, IOperaciones
     {
         public string Cui { get; set; }
@@ -19,25 +19,19 @@ namespace OperacionesLab.Edu.Kinal.Lab.Entities
             this.Cargo = cargo;
         }
 
-        override 
-        public string ToString()
-        {
-            return "";
-        }
-
         public override void TomarAsistencia()
         {
-            throw new NotImplementedException();
+            Console.WriteLine($"Tomando Asistencia de {this.Apellidos} {this.Nombres}");
         }
 
         public void ListarMisDatos(string identificador)
         {
-            throw new NotImplementedException();
+            Console.WriteLine($"{this.Uuid} {this.Apellidos} {this.Nombres} {this.Cargo}");
         }
 
         public bool EliminarAsignatura(string asignatura)
         {
-            throw new NotImplementedException();
+            Console.WriteLine($"Se ha elminado la asignatura {this.Apellidos} {this.Nombres}");
+            return true;
         }
     }
-}
