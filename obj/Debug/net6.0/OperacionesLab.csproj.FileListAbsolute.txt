@@ -1,0 +1,5 @@
+C:\Users\donal\OneDrive\Documentos\Curso Fullstack\Codigos 2022\KinalOperacionesLab\net\lab\OperacionesLab\obj\Debug\net6.0\OperacionesLab.csproj.AssemblyReference.cache
+C:\Users\donal\OneDrive\Documentos\Curso Fullstack\Codigos 2022\KinalOperacionesLab\net\lab\OperacionesLab\obj\Debug\net6.0\OperacionesLab.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\donal\OneDrive\Documentos\Curso Fullstack\Codigos 2022\KinalOperacionesLab\net\lab\OperacionesLab\obj\Debug\net6.0\OperacionesLab.AssemblyInfoInputs.cache
+C:\Users\donal\OneDrive\Documentos\Curso Fullstack\Codigos 2022\KinalOperacionesLab\net\lab\OperacionesLab\obj\Debug\net6.0\OperacionesLab.AssemblyInfo.cs
+C:\Users\donal\OneDrive\Documentos\Curso Fullstack\Codigos 2022\KinalOperacionesLab\net\lab\OperacionesLab\obj\Debug\net6.0\OperacionesLab.csproj.CoreCompileInputs.cache
